@@ -8,6 +8,8 @@ function ContactPage() {
       <Link href="/" className="text-xl text-blue-500 inline-block mt-8">
         back home
       </Link>
+      <link rel="stylesheet" href="" />
+      
     </div>
   )
 }
