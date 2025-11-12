@@ -1,7 +1,6 @@
 import Link from "next/link";
 
 
-
 function Homepage() {
   return (
     <div>
