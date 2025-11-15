@@ -1,4 +1,3 @@
-
 function InfoPage() {
   return (
     <div>
@@ -6,36 +5,4 @@ function InfoPage() {
     </div>
   )
 }
-export default InfoPage
-function InfoPage() {
-  return (
-    <div>
-      <h1 className="text-7xl">Info Page</h1>
-    </div>
-  )
-}
-export default InfoPage
-function InfoPage() {
-  return (
-    <div>
-      <h1 className="text-7xl">Info Page</h1>
-    </div>
-  )
-}
-export default InfoPage
-function InfoPage() {
-  return (
-    <div>
-      <h1 className="text-7xl">Info Page</h1>
-    </div>
-  )
-}
-export default InfoPage
-function InfoPage() {
-  return (
-    <div>
-      <h1 className="text-7xl">Info Page</h1>
-    </div>
-  )
-}
-export default InfoPage
+export default InfoPage;

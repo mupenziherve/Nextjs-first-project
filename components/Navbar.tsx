@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export const Navbar = () => {
   return (
-    <nav className="max-w-3xl mx-auto py-4 flex gap-x-4" >
+    <nav className="max-w-3xl mx-auto py-4 flex gap-x-4">
       <Link href="/">Home</Link>
       <Link href="/counter">Counters</Link>
       <Link href="/tours">Tours</Link>
